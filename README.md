@@ -1,4 +1,4 @@
-This is events magaer
+This is events manager
 
 ## Getting Started
 
