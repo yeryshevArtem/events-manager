@@ -1,4 +1,4 @@
-This is events manager
+# Small project as a part of Next.js & React - The Complete Guide course
 
 ## Getting Started
 
